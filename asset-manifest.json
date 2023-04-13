@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/Rajpatel43.github.io/Weather_app/static/css/main.6fc4d5ec.css",
+    "main.js": "/Rajpatel43.github.io/Weather_app/static/js/main.b7a952d1.js",
+    "static/js/787.35aa3f54.chunk.js": "/Rajpatel43.github.io/Weather_app/static/js/787.35aa3f54.chunk.js",
+    "static/media/green.jpg": "/Rajpatel43.github.io/Weather_app/static/media/green.5b92fa72f9122f4ba9fb.jpg",
+    "index.html": "/Rajpatel43.github.io/Weather_app/index.html",
+    "main.6fc4d5ec.css.map": "/Rajpatel43.github.io/Weather_app/static/css/main.6fc4d5ec.css.map",
+    "main.b7a952d1.js.map": "/Rajpatel43.github.io/Weather_app/static/js/main.b7a952d1.js.map",
+    "787.35aa3f54.chunk.js.map": "/Rajpatel43.github.io/Weather_app/static/js/787.35aa3f54.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.6fc4d5ec.css",
+    "static/js/main.b7a952d1.js"
+  ]
+}
